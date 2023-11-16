@@ -1,4 +1,3 @@
-# practice8
 
 ## Project setup
 ```
